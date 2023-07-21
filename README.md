@@ -2,7 +2,7 @@
 
 <h2 align="center"><b>I am a passionate problem solver and Software developer from Ireland</b></h2>
 
-<h4 align="center"><b>FullStack Developer | HTML, CSS, JavaScript, ReactJS, NextJS, ExpressJS Git</b></h4>
+<h4 align="center"><b>FullStack Developer | HTML, CSS, JavaScript, ReactJS, NextJS, ExpressJS, Git</b></h4>
 
 ## 🙋‍♂️ About Me
 
