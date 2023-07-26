@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://blog.joypixels.com/content/images/2019/06/waving_hand_sign_1024.gif" width="30px"> I'm <b>Ethan Quarry</b></h1>
 
-<h2 align="center"><b>I am a passionate problem solver and Software developer from Ireland</b></h2>
+<h2 align="center"><b>I am a passionate Problem Solver and Software developer from Ireland</b></h2>
 
 <h4 align="center"><b>FullStack Developer | HTML, CSS, JavaScript, ReactJS, NextJS, ExpressJS, Git</b></h4>
 
