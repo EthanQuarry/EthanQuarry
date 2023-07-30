@@ -18,7 +18,7 @@
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/EthanQuarry).
 - ⚡ For Fun **Games, Music, Rugby, Sprinting**.
 - 📫 How to reach me **dev.ethanquarry@gmail.com**.
-- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/EthanQuarry/ "LinkedIn Profile").
+- 🔗 Connect Me on [**Linkedin**](https://www.linkedin.com/in/ethan-quarry-842566271 "LinkedIn Profile").
 
 ## 🌐 Web Development Projects
 
