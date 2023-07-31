@@ -24,7 +24,7 @@
 
 | Project List | Languages |
 | --- | :---: |
-| [**🔗 Budgeting App with Custom JWT Auth and MSSQL Database**](https://github.com/EthanQuarry/public-budget-app) | NextJS, Tailwind, Typescript, Prisma, MSSQL |
+| [**🔗 Budgeting App with Custom JWT Auth and MSSQL Database**](https://budget-app-djotw.ondigitalocean.app/dashboard) | NextJS, Tailwind, Typescript, Prisma, PostgreSQL |
 | [**🔗 Personal Website**](https://ethandev.me) | HTML, CSS, JS |
 
 
