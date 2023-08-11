@@ -102,6 +102,8 @@
 </div>
 
 <div align="center">
-[![](https://visitcount.itsvg.in/api?id=EthanQuarry&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=EthanQuarry&label=Profile%20Views&color=11&pretty=false" />
+</a>
 </div>
 
