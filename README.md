@@ -98,5 +98,10 @@
 <div align="center">
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
-(https://visitcount.itsvg.in/api?id=EthanQuarry&label=Profile%20Views&color=12&icon=0&pretty=false)
+
 </div>
+
+<div align="center">
+[![](https://visitcount.itsvg.in/api?id=EthanQuarry&label=Profile%20Views&color=11&pretty=false)](https://visitcount.itsvg.in)
+</div>
+
