@@ -25,7 +25,7 @@
 | Project List | Languages |
 | --- | :---: |
 | [**🔗 Finance Tracker Web App with JWT Auth and PostgreSQL Database. CI/CD pipeline with Github Action**](https://budget-app-djotw.ondigitalocean.app/dashboard) | NextJS, Tailwind, Typescript, Prisma, PostgreSQL |
-| [**🔗 Ecommerce Site**](https://e-commerce-rho-lac.vercel.app/) | NextJS, Tailwind, MongoDB | 
+| [**🔗 Ecommerce Site**](https://e-commerce-rho-lac.vercel.app/) | NextJS, Tailwind, MongoDB, Vercel | 
 | [**🔗 Personal Website**](https://ethandev.me) | HTML, CSS, JS |
 
 
