@@ -60,15 +60,6 @@
 <code><img height="27" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" title="Postman"></code>
 
 
-## ⚡ GitHub Stats & Languages
-
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Stats Card">
-  	<img height="200px" src="https://github-readme-stats.vercel.app/api?username=EthanQuarry&show_icons=true&theme=react&show=reviews">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="GitHub Top Languages Card">
-   	<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EthanQuarry&layout=compact&theme=react&langs_count=10&hide=html,css,scss,ruby,shell&card_width=400">
-  </a>
-
 ## ☄️ GitHub Streaks
 
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats" title="GitHub Streak Stats">
