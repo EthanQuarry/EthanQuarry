@@ -13,7 +13,7 @@
 - 👨‍💻 Love to learn new technologies and to explore new set of areas.
 - 👁‍🗨 What's unique about me → Ability to quickly Learn and Master a new skill and to implement it to solve a realtime problems.
 - 🔭 I’m Currently Studing in **Last Year of LC Computer Science**.
-- 📘 I’m Currently learning **NextJS**.
+- 📘 I’m Currently learning **NuxtJS**.
 - 👯 I’m looking to collaborate on **Open-Source Projects**.
 - 👨🏻‍💻 Most of my projects are available on [Github](https://github.com/EthanQuarry).
 - ⚡ For Fun **Games, Music, Rugby, Sprinting**.
