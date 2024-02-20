@@ -24,7 +24,7 @@
 
 | Project List | Languages |
 | --- | :---: |
-| [**🔗 The solution to students poor performance. (In development)**](https://asynmentor.ethandev.me/) | NextJS, Tailwind, Typescript, Prisma, PostgreSQL |
+| [**🔗 Ed-Tech startup. (In development)**](https://asynmentor.ethandev.me/) | NextJS, Tailwind, Typescript, Prisma, PostgreSQL |
 | [**🔗 Finance Tracker Web App with JWT Auth and PostgreSQL Database. CI/CD pipeline with Github Action**](https://finance-tracker-6bj2s.ondigitalocean.app/landing) | NextJS, Tailwind, Typescript, Prisma, PostgreSQL |
 | [**🔗 Personal Website**](http://157.245.42.94/) | HTML, CSS, JS |
 
